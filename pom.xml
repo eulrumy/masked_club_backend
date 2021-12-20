@@ -15,6 +15,7 @@
     </properties>
 
     <modules>
+        <module>masked_club_common_library</module>
         <module>masked_club_core_service</module>
     </modules>
 
