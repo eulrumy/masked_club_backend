@@ -1,4 +1,4 @@
 package com.kryptonium.masked.club.common.library;
 
-public class test {
+public class MaskedClubCommonLibrary {
 }
